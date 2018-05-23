@@ -1,2 +1,0 @@
-# sqs.github.io
-name
